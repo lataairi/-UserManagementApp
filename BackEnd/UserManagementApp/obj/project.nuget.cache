@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pfYerZmEPpgGM02HqsSgFjP653MyqH1zk9IqkoB8WWnMAFT/y+8CqLJDcda6Qqjy8kQYV+BRrmfS4S1xAQnSug==",
+  "dgSpecHash": "yE57X7k1l+tGsU8nycuX5fLYTDH7B5TAygYFnMXhxBmtpAKfTrWPOKBjhGGQO569VZZwo5mUgCOgnMjQjzDimw==",
   "success": true,
-  "projectFilePath": "F:\\-UserManagementApp\\UserManagementApp\\UserManagementApp.csproj",
+  "projectFilePath": "F:\\Practice\\UserManagementApp\\BackEnd\\UserManagementApp\\UserManagementApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LP INFOTECH\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LP INFOTECH\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",

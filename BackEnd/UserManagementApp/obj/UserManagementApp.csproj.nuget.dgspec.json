@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\-UserManagementApp\\UserManagementApp\\UserManagementApp.csproj": {}
+    "F:\\Practice\\UserManagementApp\\BackEnd\\UserManagementApp\\UserManagementApp.csproj": {}
   },
   "projects": {
-    "F:\\-UserManagementApp\\UserManagementApp\\UserManagementApp.csproj": {
+    "F:\\Practice\\UserManagementApp\\BackEnd\\UserManagementApp\\UserManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\-UserManagementApp\\UserManagementApp\\UserManagementApp.csproj",
+        "projectUniqueName": "F:\\Practice\\UserManagementApp\\BackEnd\\UserManagementApp\\UserManagementApp.csproj",
         "projectName": "UserManagementApp",
-        "projectPath": "F:\\-UserManagementApp\\UserManagementApp\\UserManagementApp.csproj",
+        "projectPath": "F:\\Practice\\UserManagementApp\\BackEnd\\UserManagementApp\\UserManagementApp.csproj",
         "packagesPath": "C:\\Users\\LP INFOTECH\\.nuget\\packages\\",
-        "outputPath": "F:\\-UserManagementApp\\UserManagementApp\\obj\\",
+        "outputPath": "F:\\Practice\\UserManagementApp\\BackEnd\\UserManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
